@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.loessl.ch/sitemap.xml
+Sitemap: https://loessl.ch/sitemap.xml
